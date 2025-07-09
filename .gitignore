@@ -152,4 +152,10 @@ cython_debug/
 # Local History for Visual Studio Code
 .history/
 
-# END https://www.toptal.com/developers/gitignore/api/python,django,react,visualstudiocode 
+# END https://www.toptal.com/developers/gitignore/api/python,django,react,visualstudiocode
+
+# Exclude model files but keep directories
+bert_anonymizer/bert_model/*
+!bert_anonymizer/bert_model/.gitkeep
+spacy_anonymizer/model/*
+!spacy_anonymizer/model/.gitkeep 

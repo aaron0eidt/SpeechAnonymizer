@@ -18,7 +18,7 @@ To retrain the model, run the `finetune.py` script from the `training` directory
 
 1.  **Navigate to the training directory:**
     ```bash
-    cd LLM\ Approach/spacy_anonymizer/training
+    cd spacy_anonymizer/training
     ```
 
 2.  **Run the Training Script:**

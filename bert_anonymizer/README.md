@@ -17,7 +17,7 @@ To retrain the model, navigate to the `training` directory and run the fine-tuni
 
 1.  **Navigate to the training directory:**
     ```bash
-    cd LLM\ Approach/bert_anonymizer/training
+    cd bert_anonymizer/training
     ```
 
 2.  **Run the Fine-Tuning Script:**

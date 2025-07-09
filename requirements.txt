@@ -1,0 +1,24 @@
+torch
+torchaudio
+torchvision
+-e git+https://github.com/m-bain/whisperx.git#egg=whisperx
+
+# Core Application
+Flask
+requests
+python-dotenv
+werkzeug
+
+# Transcription
+faster-whisper
+pyannote.audio
+
+# Text-to-Speech
+gTTS
+pydub 
+
+# Spacy Anonymizer
+spacy
+dkpro-cassis
+spacy-transformers
+spacy[de] 

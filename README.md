@@ -122,14 +122,4 @@ speech-anonymizer/
   - `medium` - High accuracy
   - `large` - Best accuracy, slowest
 
-## 📝 License
 
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 🆘 Support
-
-If you encounter any issues or have questions, please check the troubleshooting section above or create an issue in the project repository. 
